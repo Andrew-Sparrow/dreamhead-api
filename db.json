@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John",
+      "lastName": "Malkovich",
+      "phone": "555-33-22",
+      "email": "john@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Eva",
+      "lastName": "Sidorovich",
+      "phone": "444-33-22",
+      "email": "eva@gmail.com"
+    },
+    {
+      "id": 1,
+      "name": "Gari",
+      "lastName": "Sinise",
+      "phone": "222-33-22",
+      "email": "gari@gmail.com"
+    }
+  ]
+}
