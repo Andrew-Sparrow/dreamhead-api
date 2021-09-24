@@ -14,7 +14,7 @@
       "lastName": "Sidorovich",
       "phone": "444-33-22",
       "email": "eva@gmail.com",
-      "group": "favorites"
+      "group": "Favorites"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "lastName": "Sinise",
       "phone": "222-33-22",
       "email": "gari@gmail.com",
-      "group": "work"
+      "group": "Work"
     }
   ]
 }
