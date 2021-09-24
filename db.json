@@ -6,7 +6,8 @@
       "lastName": "Malkovich",
       "phone": "555-33-22",
       "email": "john@gmail.com",
-      "group": null
+      "group": null,
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fswissgart.com%2Fprojects%2Fjohn-malkovich%2F&psig=AOvVaw2l9fZ_KHlGOl-Daygw7Grz&ust=1632585822351000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOi0zaL-l_MCFQAAAAAdAAAAABAR"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "lastName": "Sidorovich",
       "phone": "444-33-22",
       "email": "eva@gmail.com",
-      "group": "Favorites"
+      "group": "Favorites",
+      "avatar": null
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "lastName": "Sinise",
       "phone": "222-33-22",
       "email": "gari@gmail.com",
-      "group": "Work"
+      "group": "Work",
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeadline.com%2F2020%2F08%2Fgary-sinise-humanitarian-award-location-managers-guild-international-1203009594%2F&psig=AOvVaw0LB-N_BqFESdB-P6ZO3VUA&ust=1632586906731000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjvyqeCmPMCFQAAAAAdAAAAABAD"
     }
   ]
 }
