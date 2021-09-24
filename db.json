@@ -5,21 +5,24 @@
       "name": "John",
       "lastName": "Malkovich",
       "phone": "555-33-22",
-      "email": "john@gmail.com"
+      "email": "john@gmail.com",
+      "group": "null"
     },
     {
       "id": 2,
       "name": "Eva",
       "lastName": "Sidorovich",
       "phone": "444-33-22",
-      "email": "eva@gmail.com"
+      "email": "eva@gmail.com",
+      "group": "favorites"
     },
     {
       "id": 3,
       "name": "Gari",
       "lastName": "Sinise",
       "phone": "222-33-22",
-      "email": "gari@gmail.com"
+      "email": "gari@gmail.com",
+      "group": "work"
     }
   ]
 }
