@@ -11,15 +11,24 @@
     },
     {
       "id": 2,
-      "name": "Eva",
-      "lastName": "Sidorovich",
+      "name": "Emily",
+      "lastName": "Blunt",
       "phone": "444-33-22",
+      "email": "eva@gmail.com",
+      "group": "Favorites",
+      "avatar": "https://variety.com/wp-content/uploads/2018/04/emily-blunt-16x9.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Test",
+      "lastName": "Testovich",
+      "phone": "333-33-22",
       "email": "eva@gmail.com",
       "group": "Favorites",
       "avatar": null
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Gari",
       "lastName": "Sinise",
       "phone": "222-33-22",
