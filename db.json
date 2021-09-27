@@ -29,6 +29,15 @@
     },
     {
       "id": 4,
+      "name": "Test-2",
+      "lastName": "Testovich-2",
+      "phone": "333-33-22",
+      "email": "eva@gmail.com",
+      "group": "Favorites",
+      "avatar": null
+    },
+    {
+      "id": 5,
       "name": "Gari",
       "lastName": "Sinise",
       "phone": "222-33-22",
