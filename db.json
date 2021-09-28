@@ -23,7 +23,7 @@
       "name": "Test",
       "lastName": "Testovich",
       "phone": "333-33-22",
-      "email": "eva@gmail.com",
+      "email": "test@gmail.com",
       "group": "Favorites",
       "avatar": null
     },
@@ -32,7 +32,7 @@
       "name": "Bryan",
       "lastName": "Cranston",
       "phone": "333-33-22",
-      "email": "eva@gmail.com",
+      "email": "bryan@gmail.com",
       "group": "Favorites",
       "avatar": "https://imagevars.gulfnews.com/2020/12/06/Bryan-Cranston-as-Michael-Desiato-in-YOUR-HONOR_176378d10db_large.jpg"
     },
@@ -41,7 +41,7 @@
       "name": "Zooey",
       "lastName": "Deschanel",
       "phone": "333-33-22",
-      "email": "eva@gmail.com",
+      "email": "zooey@gmail.com",
       "group": "Favorites",
       "avatar": "https://pretalist.files.wordpress.com/2014/02/mainzooey3.jpg"
     },
