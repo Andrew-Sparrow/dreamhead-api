@@ -29,30 +29,30 @@
     },
     {
       "id": 4,
-      "name": "Test-2",
-      "lastName": "Testovich-2",
+      "name": "Bryan",
+      "lastName": "Cranston",
       "phone": "333-33-22",
       "email": "eva@gmail.com",
       "group": "Favorites",
-      "avatar": null
+      "avatar": "https://ca-times.brightspotcdn.com/dims4/default/969b458/2147483647/strip/true/crop/1600x900+0+0/resize/840x473!/format/webp/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1b%2F94%2F23f5297ffd303c0840079a659b37%2Fla-cdzurilla-1478035066-snap-photo"
     },
     {
       "id": 5,
-      "name": "Test-3",
-      "lastName": "Testovich-3",
+      "name": "Zooey",
+      "lastName": "Deschanel",
       "phone": "333-33-22",
       "email": "eva@gmail.com",
       "group": "Favorites",
-      "avatar": null
+      "avatar": "https://pretalist.files.wordpress.com/2014/02/mainzooey3.jpg"
     },
     {
       "id": 6,
-      "name": "Test-4",
-      "lastName": "Testovich-4",
+      "name": "Kristen",
+      "lastName": "Bell",
       "phone": "333-33-22",
-      "email": "eva@gmail.com",
+      "email": "kristen@gmail.com",
       "group": "Favorites",
-      "avatar": null
+      "avatar": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/kristen-bell-attends-universal-televisions-the-good-place-news-photo-1156634911-1563451842.jpg"
     },
     {
       "id": 7,
